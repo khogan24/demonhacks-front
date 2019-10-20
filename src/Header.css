@@ -1,0 +1,10 @@
+
+#navbar-container{
+    left: 0;right: 0;background-color: black;
+}
+#navbar-class{
+  position: relative;
+}
+#img-stock{
+    z-index: 10;
+}
